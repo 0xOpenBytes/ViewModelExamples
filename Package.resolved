@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/0xOpenBytes/ViewModel",
       "state" : {
-        "branch" : "main",
-        "revision" : "bbb5d08ea173fb372bf626bb5780dc2de23a8b0c"
+        "revision" : "bbb5d08ea173fb372bf626bb5780dc2de23a8b0c",
+        "version" : "0.1.0"
       }
     }
   ],
